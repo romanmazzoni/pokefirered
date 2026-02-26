@@ -2340,6 +2340,28 @@ extern const u32 gMonBackPic_Deoxys[];
 extern const u32 gMonShinyPalette_Deoxys[];
 extern const u8 gMonIcon_Deoxys[];
 extern const u8 gMonFootprint_Deoxys[];
+
+extern const u32 gMonFrontPic_Scorbunny[];
+extern const u32 gMonPalette_Scorbunny[];
+extern const u32 gMonBackPic_Scorbunny[];
+extern const u32 gMonShinyPalette_Scorbunny[];
+extern const u8 gMonIcon_Scorbunny[];
+extern const u8 gMonFootprint_Scorbunny[];
+
+extern const u32 gMonFrontPic_Raboot[];
+extern const u32 gMonPalette_Raboot[];
+extern const u32 gMonBackPic_Raboot[];
+extern const u32 gMonShinyPalette_Raboot[];
+extern const u8 gMonIcon_Raboot[];
+extern const u8 gMonFootprint_Raboot[];
+
+extern const u32 gMonFrontPic_Cinderace[];
+extern const u32 gMonPalette_Cinderace[];
+extern const u32 gMonBackPic_Cinderace[];
+extern const u32 gMonShinyPalette_Cinderace[];
+extern const u8 gMonIcon_Cinderace[];
+extern const u8 gMonFootprint_Cinderace[];
+
 extern const u32 gMonFrontPic_Chimecho[];
 extern const u32 gMonPalette_Chimecho[];
 extern const u32 gMonBackPic_Chimecho[];

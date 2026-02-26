@@ -2714,6 +2714,27 @@ const u8 gMonIcon_Deoxys[] = INCBIN_U8("graphics/pokemon/deoxys/icon.4bpp", "gra
 const u8 gMonFootprint_Deoxys[] = INCBIN_U8("graphics/pokemon/deoxys/footprint.1bpp");
 #endif
 
+const u32 gMonFrontPic_Scorbunny[] = INCBIN_U32("graphics/pokemon/scorbunny/front.4bpp.lz");
+const u32 gMonPalette_Scorbunny[] = INCBIN_U32("graphics/pokemon/scorbunny/normal.gbapal.lz");
+const u32 gMonBackPic_Scorbunny[] = INCBIN_U32("graphics/pokemon/scorbunny/back.4bpp.lz");
+const u32 gMonShinyPalette_Scorbunny[] = INCBIN_U32("graphics/pokemon/scorbunny/shiny.gbapal.lz");
+const u8 gMonIcon_Scorbunny[] = INCBIN_U8("graphics/pokemon/scorbunny/icon.4bpp");
+const u8 gMonFootprint_Scorbunny[] = INCBIN_U8("graphics/pokemon/scorbunny/footprint.1bpp");
+
+const u32 gMonFrontPic_Raboot[] = INCBIN_U32("graphics/pokemon/raboot/front.4bpp.lz");
+const u32 gMonPalette_Raboot[] = INCBIN_U32("graphics/pokemon/raboot/normal.gbapal.lz");
+const u32 gMonBackPic_Raboot[] = INCBIN_U32("graphics/pokemon/raboot/back.4bpp.lz");
+const u32 gMonShinyPalette_Raboot[] = INCBIN_U32("graphics/pokemon/raboot/shiny.gbapal.lz");
+const u8 gMonIcon_Raboot[] = INCBIN_U8("graphics/pokemon/raboot/icon.4bpp");
+const u8 gMonFootprint_Raboot[] = INCBIN_U8("graphics/pokemon/raboot/footprint.1bpp");
+
+const u32 gMonFrontPic_Cinderace[] = INCBIN_U32("graphics/pokemon/cinderace/front.4bpp.lz");
+const u32 gMonPalette_Cinderace[] = INCBIN_U32("graphics/pokemon/cinderace/normal.gbapal.lz");
+const u32 gMonBackPic_Cinderace[] = INCBIN_U32("graphics/pokemon/cinderace/back.4bpp.lz");
+const u32 gMonShinyPalette_Cinderace[] = INCBIN_U32("graphics/pokemon/cinderace/shiny.gbapal.lz");
+const u8 gMonIcon_Cinderace[] = INCBIN_U8("graphics/pokemon/cinderace/icon.4bpp");
+const u8 gMonFootprint_Cinderace[] = INCBIN_U8("graphics/pokemon/cinderace/footprint.1bpp");
+
 const u32 gMonFrontPic_Chimecho[] = INCBIN_U32("graphics/pokemon/chimecho/front.4bpp.lz");
 const u32 gMonPalette_Chimecho[] = INCBIN_U32("graphics/pokemon/chimecho/normal.gbapal.lz");
 const u32 gMonBackPic_Chimecho[] = INCBIN_U32("graphics/pokemon/chimecho/back.4bpp.lz");
