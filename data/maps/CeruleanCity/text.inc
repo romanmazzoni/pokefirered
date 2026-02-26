@@ -1,11 +1,11 @@
 CeruleanCity_Text_RivalIntro::
-    .string "{RIVAL}: Yo! Paul!\p"
+    .string "{RIVAL}: Yo! {PLAYER}!\p"
     .string "You're still struggling along back\n"
     .string "here?\p"
     .string "I'm doing great! I caught a bunch\n"
     .string "of strong and smart POKéMON!\p"
     .string "Here, let me see what you caught,\n"
-    .string "Paul!$"
+    .string "{PLAYER}!$"
 
 CeruleanCity_Text_RivalDefeat::
     .string "Hey!\n"

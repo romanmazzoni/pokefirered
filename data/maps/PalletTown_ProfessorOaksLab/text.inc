@@ -1,5 +1,5 @@
 PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
-    .string "{RIVAL}: What, it's only Paul?\n"
+    .string "{RIVAL}: What, it's only {PLAYER}?\n"
     .string "Gramps isn't around.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
@@ -13,7 +13,7 @@ PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe::
 PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer::
     .string "{RIVAL}: Heh, I don't need to be\n"
     .string "greedy like you. I'm mature!\p"
-    .string "Go ahead and choose, Paul!$"
+    .string "Go ahead and choose, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
     .string "{RIVAL}: I'll take this one, then!$"
@@ -27,7 +27,7 @@ PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
     .string "tougher than yours.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons::
-    .string "{RIVAL}: Wait, Paul!\n"
+    .string "{RIVAL}: Wait, {PLAYER}!\n"
     .string "Let's check out our POKéMON!\p"
     .string "Come on, I'll take you on!$"
 
@@ -101,22 +101,19 @@ PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
     .string "Don't go away yet!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
-    .string "Ah! CHARMANDER is your choice.\n"
+    .string "Ah! SCORBUNNY is your choice.\n"
     .string "You should raise it patiently.\p"
     .string "So, Paul, you're claiming the\n"
-    .string "FIRE POKéMON CHARMANDER?$"
+    .string "FIRE POKéMON BUNNY?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
     .string "Hm! SQUIRTLE is your choice.\n"
-    .string "It's one worth raising.\p"
-    .string "So, Paul, you've decided on the\n"
-    .string "WATER POKéMON SQUIRTLE?$"
+    .string "Are you fucking stupid?$"
+
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaur::
     .string "I see! BULBASAUR is your choice.\n"
-    .string "It's very easy to raise.\p"
-    .string "So, Paul, you want to go with\n"
-    .string "the GRASS POKéMON BULBASAUR?$"
+    .string "Are you fucking stupid?$"
 
 PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
     .string "This POKéMON is really quite\n"

@@ -152,5 +152,5 @@ FuchsiaCity_Gym_Text_GymStatuePlayerWon::
     .string "FUCHSIA POKéMON GYM\n"
     .string "LEADER: KOGA\p"
     .string "WINNING TRAINERS:\n"
-    .string "{RIVAL}, Paul$"
+    .string "{RIVAL}, {PLAYER}$"
 
