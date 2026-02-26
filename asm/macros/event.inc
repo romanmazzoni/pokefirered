@@ -1798,7 +1798,7 @@
 	callstd STD_FIND_ITEM
 	.endm
 
-	@ Prints the message "{PLAYER} put the {ITEM} in the {POCKET}." The item name is pluralized, if applicable.
+	@ Prints the message "Paul put the {ITEM} in the {POCKET}." The item name is pluralized, if applicable.
 	.macro putitemaway item:req, amount=1
 	setorcopyvar VAR_0x8000, \item
 	setorcopyvar VAR_0x8001, \amount

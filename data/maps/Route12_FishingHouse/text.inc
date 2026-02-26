@@ -11,7 +11,7 @@ Route12_FishingHouse_Text_TakeThisAndFish::
     .string "Take this and fish, young friend!$"
 
 Route12_FishingHouse_Text_ReceivedSuperRod::
-    .string "{PLAYER} received a SUPER ROD from\n"
+    .string "Paul received a SUPER ROD from\n"
     .string "the FISHING GURU's brother.$"
 
 Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
@@ -30,7 +30,7 @@ Route12_FishingHouse_Text_OhThatsDisappointing::
     .string "That's so disappointing…$"
 
 Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
-    .string "Hello there, {PLAYER}!\n"
+    .string "Hello there, Paul!\n"
     .string "Have you been fishing?\p"
     .string "Try fishing with the SUPER ROD in\n"
     .string "any body of water.\p"
@@ -40,7 +40,7 @@ Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
     .string "gigantic MAGIKARP.$"
 
 Route12_FishingHouse_Text_OhMagikarpAllowMeToSee::
-    .string "Oh? {PLAYER}?\n"
+    .string "Oh? Paul?\n"
     .string "Why, if it isn't a MAGIKARP!\p"
     .string "Allow me to see it, quick!$"
 

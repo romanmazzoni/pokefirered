@@ -71,7 +71,7 @@ Route25_SeaCottage_Text_ThanksLadyTakeThis::
     .string "Oh, here, maybe this'll do.$"
 
 Route25_SeaCottage_Text_ReceivedSSTicketFromBill::
-    .string "{PLAYER} received an S.S. TICKET\n"
+    .string "Paul received an S.S. TICKET\n"
     .string "from BILL.$"
 
 Route25_SeaCottage_Text_YouveGotTooMuchStuff::
@@ -97,7 +97,7 @@ Route25_SeaCottage_Text_TeleporterIsDisplayed::
     .string "monitor.$"
 
 Route25_SeaCottage_Text_InitiatedTeleportersCellSeparator::
-    .string "{PLAYER} initiated the TELEPORTER's\n"
+    .string "Paul initiated the TELEPORTER's\n"
     .string "Cell Separator.$"
 
 Route25_SeaCottage_Text_BillsFavoriteMonList::

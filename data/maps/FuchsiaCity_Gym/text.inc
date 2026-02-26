@@ -33,7 +33,7 @@ FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
     .string "Take this, too!$"
 
 FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
-    .string "{PLAYER} received TM06\n"
+    .string "Paul received TM06\n"
     .string "from KOGA.$"
 
 FuchsiaCity_Gym_Text_KogaExplainTM06::
@@ -152,5 +152,5 @@ FuchsiaCity_Gym_Text_GymStatuePlayerWon::
     .string "FUCHSIA POKéMON GYM\n"
     .string "LEADER: KOGA\p"
     .string "WINNING TRAINERS:\n"
-    .string "{RIVAL}, {PLAYER}$"
+    .string "{RIVAL}, Paul$"
 

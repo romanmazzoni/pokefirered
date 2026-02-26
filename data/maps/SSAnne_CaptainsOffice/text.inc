@@ -4,7 +4,7 @@ SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick::
     .string "Urrp! Seasick…$"
 
 SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
-    .string "{PLAYER} rubbed the CAPTAIN's\n"
+    .string "Paul rubbed the CAPTAIN's\n"
     .string "back!\p"
     .string "Rub-rub…\n"
     .string "Rub-rub…$"
@@ -22,7 +22,7 @@ SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
     .string "you can see it CUT anytime!$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
-    .string "{PLAYER} obtained HM01\n"
+    .string "Paul obtained HM01\n"
     .string "from the CAPTAIN!$"
 
 SSAnne_CaptainsOffice_Text_ExplainCut::

@@ -217,7 +217,7 @@ gOakSpeech_Text_YourNameWhatIsIt::
 
 gOakSpeech_Text_SoYourNameIsPlayer::
     .string "Right…\n"
-    .string "So your name is {PLAYER}.$"
+    .string "So your name is Paul.$"
 
 gOakSpeech_Text_WhatWasHisName::
     .string "This is my grandson.\p"
@@ -236,7 +236,7 @@ gOakSpeech_Text_RememberRivalsName::
     .string "His name is {RIVAL}!\p$"
 
 gOakSpeech_Text_LetsGo::
-    .string "{PLAYER}!\p"
+    .string "Paul!\p"
     .string "Your very own POKéMON legend is\n"
     .string "about to unfold!\p"
     .string "A world of dreams and adventures\n"

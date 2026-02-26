@@ -1,8 +1,8 @@
 @ The text here is a copy/paste from Hoenn's Eon Ticket event, all unused and untranslated
 
 Text_DadLetterArrivedForYouPlayer::
-	.string "パパ“{PLAYER}！　よく　きたな！\n"
-	.string "{PLAYER}あての　てがみが　とどけられたぞ$"
+	.string "パパ“Paul！　よく　きたな！\n"
+	.string "Paulあての　てがみが　とどけられたぞ$"
 
 Text_DadPassForShipNeverSeenBefore::
 	.string "パパ“わたしも　みたことのない\n"

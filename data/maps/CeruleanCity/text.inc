@@ -1,11 +1,11 @@
 CeruleanCity_Text_RivalIntro::
-    .string "{RIVAL}: Yo! {PLAYER}!\p"
+    .string "{RIVAL}: Yo! Paul!\p"
     .string "You're still struggling along back\n"
     .string "here?\p"
     .string "I'm doing great! I caught a bunch\n"
     .string "of strong and smart POKéMON!\p"
     .string "Here, let me see what you caught,\n"
-    .string "{PLAYER}!$"
+    .string "Paul!$"
 
 CeruleanCity_Text_RivalDefeat::
     .string "Hey!\n"
@@ -64,7 +64,7 @@ CeruleanCity_Text_OkayIllReturnStolenTM::
     .string "I'll return the TM I stole.$"
 
 CeruleanCity_Text_RecoveredTM28FromGrunt::
-    .string "{PLAYER} recovered TM28 from\n"
+    .string "Paul recovered TM28 from\n"
     .string "the TEAM ROCKET GRUNT.$"
 
 CeruleanCity_Text_BetterGetMovingBye::

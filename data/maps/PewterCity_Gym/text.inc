@@ -23,7 +23,7 @@ PewterCity_Gym_Text_BrockDefeat::
     .string "As proof of your victory, I confer\n"
     .string "on you this…the official POKéMON\l"
     .string "LEAGUE BOULDERBADGE.\p"
-    .string "{FONT_NORMAL}{PLAYER} received the BOULDERBADGE\n"
+    .string "{FONT_NORMAL}Paul received the BOULDERBADGE\n"
     .string "from BROCK!{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}\p"
     .string "{FONT_MALE}Just having the BOULDERBADGE makes\n"
     .string "your POKéMON more powerful.\p"
@@ -37,7 +37,7 @@ PewterCity_Gym_Text_TakeThisWithYou::
     .string "Take this with you.$"
 
 PewterCity_Gym_Text_ReceivedTM39FromBrock::
-    .string "{PLAYER} received TM39\n"
+    .string "Paul received TM39\n"
     .string "from BROCK.$"
 
 PewterCity_Gym_Text_ExplainTM39::
@@ -118,5 +118,5 @@ PewterCity_Gym_Text_GymStatuePlayerWon::
     .string "PEWTER POKéMON GYM\n"
     .string "LEADER: BROCK\p"
     .string "WINNING TRAINERS:\n"
-    .string "{RIVAL}, {PLAYER}$"
+    .string "{RIVAL}, Paul$"
 

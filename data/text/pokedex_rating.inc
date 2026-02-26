@@ -109,7 +109,7 @@ PokedexRating_Text_HaHa::
 	.string "はあ はあ‥$"
 
 PokedexRating_Text_ThankYouMadeDreamReality::
-	.string "Thank you, {PLAYER}!\n"
+	.string "Thank you, Paul!\n"
 	.string "Sincerely, thank you!\l"
 	.string "You've made my dream a reality!$"
 

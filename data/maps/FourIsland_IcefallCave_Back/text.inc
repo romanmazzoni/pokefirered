@@ -11,7 +11,7 @@ FourIsland_IcefallCave_Back_Text_ShutItLadyLeaveUsBe::
     .string "steamed up!$"
 
 FourIsland_IcefallCave_Back_Text_LoreleiPlayerHelpMeKickPoachersOut::
-    .string "LORELEI: {PLAYER}?!\n"
+    .string "LORELEI: Paul?!\n"
     .string "What are you doing here?\p"
     .string "No, we can catch up later.\n"
     .string "Right now, I need your help.\p"
@@ -64,7 +64,7 @@ FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
     .string "Heheheheh!$"
 
 FourIsland_IcefallCave_Back_Text_ThankYouThisIsAwful::
-    .string "{PLAYER}, thank you.\n"
+    .string "Paul, thank you.\n"
     .string "But this is awful…\p"
     .string "I was born and raised here on\n"
     .string "these islands.\p"

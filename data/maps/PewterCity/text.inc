@@ -118,7 +118,7 @@ PewterCity_Text_MonsWillUseHeldBerriesOnTheirOwn::
     .string "てがるで　べんり　だろ？$"
 
 PewterCity_Text_OhPlayer::
-    .string "Oh, {PLAYER}{KUN}!$"
+    .string "Oh, Paul{KUN}!$"
 
 PewterCity_Text_AskedToDeliverThis::
     .string "I'm glad I caught up to you.\n"
@@ -127,11 +127,11 @@ PewterCity_Text_AskedToDeliverThis::
     .string "so here you go.$"
 
 PewterCity_Text_ReceivedRunningShoesFromAide::
-    .string "{PLAYER} received the\n"
+    .string "Paul received the\n"
     .string "RUNNING SHOES from the AIDE.$"
 
 PewterCity_Text_SwitchedShoesWithRunningShoes::
-    .string "{PLAYER} switched shoes with the\n"
+    .string "Paul switched shoes with the\n"
     .string "RUNNING SHOES.$"
 
 PewterCity_Text_ExplainRunningShoes::
@@ -145,7 +145,7 @@ PewterCity_Text_MustBeGoingBackToLab::
 
 PewterCity_Text_RunningShoesLetterFromMom::
     .string "There's a letter attached…\p"
-    .string "Dear {PLAYER},\p"
+    .string "Dear Paul,\p"
     .string "Here is a pair of RUNNING SHOES\n"
     .string "for my beloved challenger.\p"
     .string "Remember, I'll always cheer for\n"

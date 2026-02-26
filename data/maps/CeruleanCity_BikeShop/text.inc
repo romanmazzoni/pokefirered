@@ -15,7 +15,7 @@ CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo::
     .string "Here you go!$"
 
 CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle::
-    .string "{PLAYER} exchanged the\n"
+    .string "Paul exchanged the\n"
     .string "BIKE VOUCHER for a BICYCLE.$"
 
 CeruleanCity_BikeShop_Text_ThankYouComeAgain::

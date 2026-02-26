@@ -24,7 +24,7 @@ VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
     .string "Take this!$"
 
 VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
-    .string "{PLAYER} received TM34\n"
+    .string "Paul received TM34\n"
     .string "from LT. SURGE.$"
 
 VermilionCity_Gym_Text_ExplainTM34::
@@ -111,7 +111,7 @@ VermilionCity_Gym_Text_GymStatuePlayerWon::
     .string "VERMILION POKéMON GYM\n"
     .string "LEADER: LT. SURGE\p"
     .string "WINNING TRAINERS:\n"
-    .string "{RIVAL}, {PLAYER}$"
+    .string "{RIVAL}, Paul$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::
     .string "Nope!\n"

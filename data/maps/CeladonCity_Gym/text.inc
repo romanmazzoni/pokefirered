@@ -35,7 +35,7 @@ CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis::
     .string "Please also take this with you.$"
 
 CeladonCity_Gym_Text_ReceivedTM19FromErika::
-    .string "{PLAYER} received TM19\n"
+    .string "Paul received TM19\n"
     .string "from ERIKA.$"
 
 CeladonCity_Gym_Text_ExplainTM19::
@@ -148,5 +148,5 @@ CeladonCity_Gym_Text_GymStatuePlayerWon::
     .string "CELADON POKéMON GYM\n"
     .string "LEADER: ERIKA\p"
     .string "WINNING TRAINERS:\n"
-    .string "{RIVAL}, {PLAYER}$"
+    .string "{RIVAL}, Paul$"
 

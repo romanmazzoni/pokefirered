@@ -19,7 +19,7 @@ SilphCo_11F_Text_ThanksForSavingMeDearGirl::
     .string "Here, maybe this will do.$"
 
 SilphCo_11F_Text_ObtainedMasterBallFromPresident::
-    .string "{PLAYER} obtained a MASTER BALL\n"
+    .string "Paul obtained a MASTER BALL\n"
     .string "from the PRESIDENT!$"
 
 SilphCo_11F_Text_ThatsOurSecretPrototype::
@@ -42,7 +42,7 @@ SilphCo_11F_Text_ThanksForRescuingUs::
     .string "are indebted to you.$"
 
 SilphCo_11F_Text_GiovanniIntro::
-    .string "Ah, {PLAYER}!\n"
+    .string "Ah, Paul!\n"
     .string "So we meet again!\p"
     .string "The PRESIDENT and I are discussing\n"
     .string "a vital business proposition.\p"
@@ -58,7 +58,7 @@ SilphCo_11F_Text_GiovanniPostBattle::
     .string "Blast it all!\n"
     .string "You ruined our plans for SILPH!\p"
     .string "But, TEAM ROCKET will never fall!\p"
-    .string "{PLAYER}! Never forget that all\n"
+    .string "Paul! Never forget that all\n"
     .string "POKéMON exist for TEAM ROCKET!\p"
     .string "I must go, but I shall return!$"
 

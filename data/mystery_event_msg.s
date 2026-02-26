@@ -244,7 +244,7 @@ AuroraTicket_Obtained:
 sText_AuroraTicket1:
 	.string "Thank you for using the MYSTERY\n"
 	.string "GIFT System.\p"
-	.string "You must be {PLAYER}.\n"
+	.string "You must be Paul.\n"
 	.string "There is a ticket here for you.$"
 
 sText_AuroraTicket2:
@@ -258,7 +258,7 @@ sText_AuroraTicketGot:
 	.string "GIFT System.$"
 
 sText_AuroraTicketNoPlace:
-	.string "Oh, I'm sorry, {PLAYER}. Your BAG's\n"
+	.string "Oh, I'm sorry, Paul. Your BAG's\n"
 	.string "KEY ITEMS POCKET is full.\p"
 	.string "Please store something on your PC,\n"
 	.string "then come back for this.$"
@@ -303,7 +303,7 @@ MysticTicket_Obtained:
 sText_MysticTicket2:
 	.string "Thank you for using the MYSTERY\n"
 	.string "GIFT System.\p"
-	.string "You must be {PLAYER}.\n"
+	.string "You must be Paul.\n"
 	.string "There is a ticket here for you.$"
 
 sText_MysticTicket1:
@@ -317,7 +317,7 @@ sText_MysticTicketGot:
 	.string "GIFT System.$"
 
 sText_MysticTicketNoPlace:
-	.string "Oh, I'm sorry, {PLAYER}. Your BAG's\n"
+	.string "Oh, I'm sorry, Paul. Your BAG's\n"
 	.string "KEY ITEMS POCKET is full.\p"
 	.string "Please store something on your PC,\n"
 	.string "then come back for this.$"

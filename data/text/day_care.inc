@@ -29,7 +29,7 @@ DayCare_Text_YouHaveNoRoomForIt::
 	.string "Come back when you've made room.$"
 
 DayCare_Text_ReceivedEgg::
-	.string "{PLAYER} received the EGG from\n"
+	.string "Paul received the EGG from\n"
 	.string "the DAY-CARE MAN.$"
 
 DayCare_Text_TakeGoodCareOfIt::
@@ -110,7 +110,7 @@ DayCare_Text_HeresYourMon::
 	.string "Here's your POKéMON.$"
 
 DayCare_Text_TookBackMon::
-	.string "{PLAYER} took back {STR_VAR_1} from\n"
+	.string "Paul took back {STR_VAR_1} from\n"
 	.string "the DAY-CARE LADY.$"
 
 DayCare_Text_YouHaveJustOneMon::

@@ -61,7 +61,7 @@ SafariZone_Text_HereAreYourSafariBalls::
 	.string "では　サファリボールを　どうぞ！$"
 
 SafariZone_Text_Received30SafariBalls::
-	.string "{PLAYER}は　サファリボールを\n"
+	.string "Paulは　サファリボールを\n"
 	.string "30こ　うけとった！$"
 
 SafariZone_Text_PleaseEnjoyYourself::

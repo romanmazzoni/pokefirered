@@ -25,7 +25,7 @@ CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
     .string "Here, you can have this, too!$"
 
 CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
-    .string "{PLAYER} received TM38\n"
+    .string "Paul received TM38\n"
     .string "from BLAINE.$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
@@ -134,7 +134,7 @@ CinnabarIsland_Gym_Text_GymGuyAdvice::
     .string "BURN HEALS, too.$"
 
 CinnabarIsland_Gym_Text_GymGuyPostVictory::
-    .string "{PLAYER}!\n"
+    .string "Paul!\n"
     .string "You beat that firebrand!$"
 
 CinnabarIsland_Gym_Text_GymStatue::
@@ -147,7 +147,7 @@ CinnabarIsland_Gym_Text_GymStatuePlayerWon::
     .string "CINNABAR POKéMON GYM\n"
     .string "LEADER: BLAINE\p"
     .string "WINNING TRAINERS:\n"
-    .string "{RIVAL}, {PLAYER}$"
+    .string "{RIVAL}, Paul$"
 
 CinnabarIsland_Gym_Text_PokemonQuizRules::
     .string "POKéMON Quiz!\p"

@@ -6,9 +6,9 @@ SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
 
 SSAnne_2F_Corridor_Text_RivalIntro::
     .string "{RIVAL}: Bonjour!\n"
-    .string "{PLAYER}!\p"
+    .string "Paul!\p"
     .string "Imagine seeing you here!\n"
-    .string "{PLAYER}, were you really invited?\p"
+    .string "Paul, were you really invited?\p"
     .string "So how's your POKéDEX coming?\p"
     .string "I already caught 40 kinds, pal.\n"
     .string "Different kinds are everywhere.\p"
@@ -21,7 +21,7 @@ SSAnne_2F_Corridor_Text_RivalDefeat::
     .string "POKéMON!$"
 
 SSAnne_2F_Corridor_Text_RivalVictory::
-    .string "{PLAYER}‥！\n"
+    .string "Paul‥！\n"
     .string "ふなよい　してるのか！\p"
     .string "もっと　からだ\n"
     .string "きたえた　ほうが　いいぜ！$"

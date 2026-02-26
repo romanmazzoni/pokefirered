@@ -10,7 +10,7 @@ VermilionCity_House1_Text_TakeThisAndFish::
     .string "Take this and fish, young friend!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-    .string "{PLAYER} received an OLD ROD from\n"
+    .string "Paul received an OLD ROD from\n"
     .string "the FISHING GURU.$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
@@ -24,7 +24,7 @@ VermilionCity_House1_Text_OhThatsSoDisappointing::
     .string "That's so disappointing…$"
 
 VermilionCity_House1_Text_HowAreTheFishBiting::
-    .string "Hello there, {PLAYER}!\p"
+    .string "Hello there, Paul!\p"
     .string "How are the fish biting?$"
 
 VermilionCity_House1_Text_NoRoomForNiceGift::

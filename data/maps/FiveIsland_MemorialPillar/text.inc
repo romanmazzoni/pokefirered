@@ -60,7 +60,7 @@ FiveIsland_MemorialPillar_Text_LeaveAnotherLemonadeOffering::
     .string "LEMONADE as an offering?$"
 
 FiveIsland_MemorialPillar_Text_PlacedCanOfLemonade::
-    .string "{PLAYER} placed a can of LEMONADE\n"
+    .string "Paul placed a can of LEMONADE\n"
     .string "in front of the grave.$"
 
 FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::

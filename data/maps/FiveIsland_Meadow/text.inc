@@ -4,14 +4,14 @@ FiveIsland_Meadow_Text_DoorNeedsTwoPasswords::
     .string "パスワードが　2つ　いるようだ$"
 
 FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
-    .string "{PLAYER} entered a password.\p"
+    .string "Paul entered a password.\p"
     .string "“GOLDEEN need log.”\p"
     .string "… …  … …  … …\p"
     .string "Another password is needed to\n"
     .string "open the door…$"
 
 FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
-    .string "{PLAYER} entered two passwords.\p"
+    .string "Paul entered two passwords.\p"
     .string "“GOLDEEN need log.”\n"
     .string "“Yes, nah, CHANSEY.”\p"
     .string "… …  … …  … …\p"

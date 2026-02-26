@@ -18,7 +18,7 @@ FiveIsland_WaterLabyrinth_Text_TreatMonRightHaveThis::
     .string "Please, I'd like you to have this.$"
 
 FiveIsland_WaterLabyrinth_Text_ReceivedEggFromMan::
-    .string "{PLAYER} received an EGG\n"
+    .string "Paul received an EGG\n"
     .string "from the man!$"
 
 FiveIsland_WaterLabyrinth_Text_DontHaveSpaceInYourParty::

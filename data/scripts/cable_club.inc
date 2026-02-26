@@ -1714,7 +1714,7 @@ CableClub_Text_ExplainWirelessClubFirstTime::
 	.string "Communication System.$"
 
 CableClub_Text_AskAboutLinking::
-	.string "Hello, {PLAYER}!\p"
+	.string "Hello, Paul!\p"
 	.string "It's me, TEALA, the POKéMON\n"
 	.string "CENTER 2F attendant.\p"
 	.string "Is there something you needed to\n"

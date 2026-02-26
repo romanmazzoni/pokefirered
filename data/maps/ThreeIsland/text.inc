@@ -128,7 +128,7 @@ ThreeIsland_Text_ThankYouOhYourMonGotHurt::
     .string "on my account.$"
 
 ThreeIsland_Text_GivenFullRestore::
-    .string "{PLAYER} was given\n"
+    .string "Paul was given\n"
     .string "a FULL RESTORE.$"
 
 ThreeIsland_Text_OhYourBagIsFull::

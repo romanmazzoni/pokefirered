@@ -1,7 +1,7 @@
 @ The text here is a copy/paste from Hoenn's various berry NPCs, all unused and untranslated
 
 PetalburgCity_Gym_Text_GiveEnigmaBerry::
-	.string "パパ“やあ　{PLAYER}！\p"
+	.string "パパ“やあ　Paul！\p"
 	.string "めずらしい　きのみを　てに　いれたから\n"
 	.string "プレゼント　するよ！$"
 
@@ -136,13 +136,13 @@ Route104_PrettyPetalFlowerShop_Text_ThisIsPrettyPetalFlowerShop::
 	.string "フラワーショップ　サン·トウカです！$"
 
 Route104_PrettyPetalFlowerShop_Text_LearnAboutBerries::
-	.string "{PLAYER}{KUN}　きのみの　こと　しりたい？$"
+	.string "Paul{KUN}　きのみの　こと　しりたい？$"
 
 Route104_PrettyPetalFlowerShop_Text_IntroLearnAboutBerries::
 	.string "あなたの　なまえは‥‥\p"
-	.string "{PLAYER}{KUN}ね！\n"
+	.string "Paul{KUN}ね！\n"
 	.string "とっても　いい　なまえだね！\l"
-	.string "{PLAYER}{KUN}　きのみのこと　しりたい？$"
+	.string "Paul{KUN}　きのみのこと　しりたい？$"
 
 Route104_PrettyPetalFlowerShop_Text_BerriesExplanation::
 	.string "きのみはね　くろい　ふかふかの　つちの\n"
@@ -155,7 +155,7 @@ Route104_PrettyPetalFlowerShop_Text_BerriesExplanation::
 	.string "そうやって　はなを　ふやして\n"
 	.string "せかいじゅうを　はなに　するのが\l"
 	.string "わたしの　ゆめ　なんだ！\p"
-	.string "だから　{PLAYER}{KUN}も　きのみを　うめて\n"
+	.string "だから　Paul{KUN}も　きのみを　うめて\n"
 	.string "せかいに　はなを　ふやしてね！$"
 
 Route104_PrettyPetalFlowerShop_Text_FlowersBringHappiness::

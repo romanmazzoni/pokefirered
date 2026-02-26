@@ -59,7 +59,7 @@ PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
     .string "a POKéMON LAB somewhere.$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
-    .string "{PLAYER} received the OLD AMBER\n"
+    .string "Paul received the OLD AMBER\n"
     .string "from the man.$"
 
 PewterCity_Museum_1F_Text_GetOldAmberChecked::

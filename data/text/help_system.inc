@@ -556,7 +556,7 @@ Help_Text_UsingPokeBall::
 	.string "  Using a POKé BALL$"
 
 Help_Text_UsingPlayer::
-	.string " Using “{PLAYER}”$"
+	.string " Using “Paul”$"
 
 Help_Text_UsingSave::
 	.string " Using “SAVE”$"
@@ -604,7 +604,7 @@ Help_Text_MovingItems::
 	.string "  Moving items$"
 
 Help_Text_UsingPlayersPC::
-	.string " Using “{PLAYER}'s PC”$"
+	.string " Using “Paul's PC”$"
 
 Help_Text_UsingWithdrawItem::
 	.string "  Using “WITHDRAW ITEM”$"
@@ -747,7 +747,7 @@ Help_Text_HowToUsePokeBall::
 	.string "   POKé BALL.$"
 
 Help_Text_HowToUsePlayer::
-	.string "{CIRCLE_1} Select “{PLAYER}” on the MENU.\n"
+	.string "{CIRCLE_1} Select “Paul” on the MENU.\n"
 	.string "{CIRCLE_2} Your TRAINER CARD is displayed face\n"
 	.string "   up with basic information. Press the\n"
 	.string "   A Button to turn the CARD over.\n"
@@ -884,7 +884,7 @@ Help_Text_HowToMoveItems::
 	.string "   to the BAG with the A Button.$"
 
 Help_Text_HowToUsePlayersPC::
-	.string "{CIRCLE_1} Select “{PLAYER}'s PC” on the PC.\n"
+	.string "{CIRCLE_1} Select “Paul's PC” on the PC.\n"
 	.string "{CIRCLE_2} Select either “ITEM STORAGE” or\n"
 	.string "   “MAILBOX.”\n"
 	.string "You may store things in your own PC\n"
@@ -912,7 +912,7 @@ Help_Text_HowToUseMailbox::
 	.string "When MAIL is taken from a POKéMON,\n"
 	.string "it is moved to the MAILBOX. If it has\n"
 	.string "no MAIL, the MAILBOX can't be used.\n"
-	.string "{CIRCLE_1} Select “{PLAYER}'S PC” on the PC.\n"
+	.string "{CIRCLE_1} Select “Paul'S PC” on the PC.\n"
 	.string "{CIRCLE_2} Select “MAILBOX” to read MAIL or\n"
 	.string "   make a POKéMON hold MAIL.$"
 

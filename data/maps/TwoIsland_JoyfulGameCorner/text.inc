@@ -72,7 +72,7 @@ TwoIsland_JoyfulGameCorner_Text_YouRescuedLostelle::
 
 TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddy::
     .string "LOSTELLE: It's okay, Daddy.\n"
-    .string "I got to be friends with {PLAYER}!$"
+    .string "I got to be friends with Paul!$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
     .string "Oh, what's that?\n"
@@ -83,7 +83,7 @@ TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
     .string "happy.$"
 
 TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
-    .string "{PLAYER} handed the METEORITE\n"
+    .string "Paul handed the METEORITE\n"
     .string "to LOSTELLE's daddy.$"
 
 TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
@@ -93,7 +93,7 @@ TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
     .string "I want you to have this.$"
 
 TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy::
-    .string "{PLAYER} received a MOON STONE\n"
+    .string "Paul received a MOON STONE\n"
     .string "from LOSTELLE's daddy.$"
 
 TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::

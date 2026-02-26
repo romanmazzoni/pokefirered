@@ -31,7 +31,7 @@ SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
     .string "Wait, please take this TM with you.$"
 
 SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
-    .string "{PLAYER} received TM04 from\n"
+    .string "Paul received TM04 from\n"
     .string "SABRINA.$"
 
 SaffronCity_Gym_Text_ExplainTM04::
@@ -156,5 +156,5 @@ SaffronCity_Gym_Text_GymStatuePlayerWon::
     .string "SAFFRON POKéMON GYM\n"
     .string "LEADER: SABRINA\p"
     .string "WINNING TRAINERS:\n"
-    .string "{RIVAL}, {PLAYER}$"
+    .string "{RIVAL}, Paul$"
 

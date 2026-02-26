@@ -147,6 +147,7 @@ gBattleAnims_Moves::
 	.4byte Move_SLUDGE
 	.4byte Move_BONE_CLUB
 	.4byte Move_FIRE_BLAST
+	.4byte Move_PYRO_BALL
 	.4byte Move_WATERFALL
 	.4byte Move_CLAMP
 	.4byte Move_SWIFT
@@ -868,6 +869,7 @@ Move_TWINEEDLE:
 	blendoff
 	end
 
+Move_PYRO_BALL:
 Move_FIRE_BLAST:
 	loadspritegfx ANIM_TAG_SMALL_EMBER
 	createsoundtask SoundTask_FireBlast, SE_M_FLAME_WHEEL, SE_M_FLAME_WHEEL2

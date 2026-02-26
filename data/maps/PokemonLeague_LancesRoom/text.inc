@@ -1,6 +1,6 @@
 PokemonLeague_LancesRoom_Text_Intro::
     .string "Ah! I've heard about you,\n"
-    .string "{PLAYER}!\p"
+    .string "Paul!\p"
     .string "I lead the ELITE FOUR.\p"
     .string "You can call me LANCE the dragon\n"
     .string "TRAINER.\p"
@@ -12,11 +12,11 @@ PokemonLeague_LancesRoom_Text_Intro::
     .string "There's no being clever with them.\p"
     .string "Well, are you ready to lose?\p"
     .string "Your LEAGUE challenge ends with\n"
-    .string "me, {PLAYER}!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "me, Paul!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_LancesRoom_Text_RematchIntro::
     .string "Ah!\n"
-    .string "So, you've returned, {PLAYER}!\p"
+    .string "So, you've returned, Paul!\p"
     .string "I lead the ELITE FOUR.\p"
     .string "You can call me LANCE the dragon\n"
     .string "TRAINER.\p"
@@ -28,7 +28,7 @@ PokemonLeague_LancesRoom_Text_RematchIntro::
     .string "There's no being clever with them.\p"
     .string "Well, are you ready to lose?\p"
     .string "Your LEAGUE challenge ends with\n"
-    .string "me, {PLAYER}!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "me, Paul!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_LancesRoom_Text_Defeat::
     .string "That's it!\p"
@@ -37,7 +37,7 @@ PokemonLeague_LancesRoom_Text_Defeat::
 
 PokemonLeague_LancesRoom_Text_PostBattle::
     .string "I still can't believe my dragons\n"
-    .string "lost to you, {PLAYER}.\p"
+    .string "lost to you, Paul.\p"
     .string "You are now the POKéMON LEAGUE\n"
     .string "CHAMPION!\p"
     .string "…Or, you would have been, but\n"

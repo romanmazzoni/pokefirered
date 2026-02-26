@@ -1,10 +1,10 @@
 PalletTown_RivalsHouse_Text_HiBrothersAtLab::
-    .string "DAISY: Hi, {PLAYER}!\p"
+    .string "DAISY: Hi, Paul!\p"
     .string "My brother, {RIVAL}, is out at\n"
     .string "Grandpa's LAB.$"
 
 PalletTown_RivalsHouse_Text_HeardYouBattledRival::
-    .string "DAISY: {PLAYER}, I heard you had\n"
+    .string "DAISY: Paul, I heard you had\n"
     .string "a battle against {RIVAL}.\p"
     .string "I wish I'd seen that!$"
 
@@ -15,7 +15,7 @@ PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
     .string "Here, this will help you.$"
 
 PalletTown_RivalsHouse_Text_ReceivedTownMapFromDaisy::
-    .string "{PLAYER} received a TOWN MAP\n"
+    .string "Paul received a TOWN MAP\n"
     .string "from DAISY.$"
 
 PalletTown_RivalsHouse_Text_DontHaveSpaceForThis::
@@ -42,7 +42,7 @@ PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
     .string "books on POKéMON.$"
 
 PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
-    .string "DAISY: Hi, {PLAYER}!\n"
+    .string "DAISY: Hi, Paul!\n"
     .string "Good timing.\p"
     .string "I'm about to have some tea.\n"
     .string "Would you like to join me?\p"
@@ -80,7 +80,7 @@ PalletTown_RivalsHouse_Text_CantGroomAnEgg::
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
     .string "DAISY: Your POKéMON grow to love\n"
     .string "you if you raise them with love.\p"
-    .string "For example, {PLAYER}, may I see\n"
+    .string "For example, Paul, may I see\n"
     .string "your first POKéMON?$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
@@ -109,7 +109,7 @@ PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
     .string "you first get them.$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
-    .string "{PLAYER}, I don't like the way it\n"
+    .string "Paul, I don't like the way it\n"
     .string "glares at you.\p"
     .string "Could you try being a little nicer\n"
     .string "to it?$"

@@ -1,5 +1,5 @@
 PokemonTower_2F_Text_RivalIntro::
-    .string "{RIVAL}: Hey, {PLAYER}!\n"
+    .string "{RIVAL}: Hey, Paul!\n"
     .string "What brings you here?\l"
     .string "Is your POKéMON dead?\p"
     .string "Hey! It's alive!\p"

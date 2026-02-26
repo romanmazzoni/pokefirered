@@ -843,7 +843,7 @@ Text_HavingDiscountSaleToday::
 
 @ Unused
 Text_PlayerWhatCanIDoForYou::
-	.string "{PLAYER}{KUN}, welcome!\p"
+	.string "Paul{KUN}, welcome!\p"
 	.string "What can I do for you?$"
 
 	.include "data/text/obtain_item.inc"
@@ -870,7 +870,7 @@ Text_TrainerSchoolEmail::
 	.string "‥‥　‥‥　‥‥$"
 
 Text_PlayerBootedUpPC::
-	.string "{PLAYER} booted up the PC.$"
+	.string "Paul booted up the PC.$"
 
 @ Unused
 Text_LinkWasCanceled::
@@ -924,7 +924,7 @@ Text_AppearsToBeUndergoingAdjustments::
 	.string "adjustments…$"
 
 Text_HandedOverItem::
-	.string "{PLAYER} handed over the\n"
+	.string "Paul handed over the\n"
 	.string "{STR_VAR_1}.$"
 
 Text_GiveNicknameToThisMon::
@@ -997,7 +997,7 @@ Text_TheresBedLetsRest::
 	.string "やすんでいこう$"
 
 Text_FoundTMHMContainsMove::
-	.string "{PLAYER} found a {STR_VAR_2}!\n"
+	.string "Paul found a {STR_VAR_2}!\n"
 	.string "It contains {STR_VAR_1}.$"
 
 	.include "data/text/seagallop.inc"

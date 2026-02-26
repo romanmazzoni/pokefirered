@@ -6,7 +6,7 @@ Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
     .string "give you a reward.\p"
     .string "PROF. OAK entrusted me with the\n"
     .string "{STR_VAR_2} for you.\p"
-    .string "So, {PLAYER}, let me ask you.\p"
+    .string "So, Paul, let me ask you.\p"
     .string "Have you gathered data on at least\n"
     .string "{STR_VAR_1} kinds of POKéMON?$"
 
@@ -17,7 +17,7 @@ Route11_EastEntrance_2F_Text_GreatHereYouGo::
     .string "Here you go!$"
 
 Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::
-    .string "{PLAYER} received the {STR_VAR_2}\n"
+    .string "Paul received the {STR_VAR_2}\n"
     .string "from the AIDE.$"
 
 Route11_EastEntrance_2F_Text_ExplainItemfinder::

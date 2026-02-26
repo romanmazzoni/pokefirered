@@ -27,7 +27,7 @@ CinnabarIsland_Text_GymSign::
 
 CinnabarIsland_Text_HeyIfItIsntPlayer::
     .string "Huh?\n"
-    .string "Hey, if it isn't {PLAYER}!$"
+    .string "Hey, if it isn't Paul!$"
 
 CinnabarIsland_Text_ComeWithMeToOneIsland::
     .string "Look, it's me, BILL.\n"

@@ -28,7 +28,7 @@ LavenderTown_VolunteerPokemonHouse_Text_Psyduck::
     .string "PSYDUCK: Gwappa!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
-    .string "MR. FUJI: {PLAYER}…\p"
+    .string "MR. FUJI: Paul…\p"
     .string "Your POKéDEX quest is one that\n"
     .string "requires strong dedication.\p"
     .string "Without deep love for POKéMON,\n"
@@ -37,7 +37,7 @@ LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
     .string "but I'd like you to have it.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
-    .string "{PLAYER} received a POKé FLUTE\n"
+    .string "Paul received a POKé FLUTE\n"
     .string "from MR. FUJI.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::

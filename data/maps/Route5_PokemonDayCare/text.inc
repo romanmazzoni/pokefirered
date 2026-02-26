@@ -34,7 +34,7 @@ Route5_PokemonDayCare_Text_ThankYouHeresMon::
 	.string "Here's your POKéMON.$"
 
 Route5_PokemonDayCare_Text_PlayerGotMonBack::
-	.string "{PLAYER} got {STR_VAR_1} back\n"
+	.string "Paul got {STR_VAR_1} back\n"
 	.string "from the DAY-CARE MAN.$"
 
 Route5_PokemonDayCare_Text_OnlyHaveOneMonWithYou::

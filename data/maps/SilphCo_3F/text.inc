@@ -3,7 +3,7 @@ SilphCo_3F_Text_WhatAmIToDo::
     .string "What am I to do?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
-    .string "{PLAYER}!\n"
+    .string "Paul!\n"
     .string "You and your POKéMON saved us!$"
 
 SilphCo_3F_Text_GruntIntro::

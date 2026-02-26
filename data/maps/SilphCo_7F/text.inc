@@ -6,7 +6,7 @@ SilphCo_7F_Text_HaveMonForSavingUs::
     .string "for saving us.$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
-    .string "{PLAYER} obtained a LAPRAS from\n"
+    .string "Paul obtained a LAPRAS from\n"
     .string "the SILPH employee!$"
 
 SilphCo_7F_Text_ExplainLapras::
@@ -104,7 +104,7 @@ SilphCo_7F_Text_Grunt2PostBattle::
     .string "ticked off!$"
 
 SilphCo_7F_Text_RivalWhatKeptYou::
-    .string "{RIVAL}: What kept you, {PLAYER}?$"
+    .string "{RIVAL}: What kept you, Paul?$"
 
 SilphCo_7F_Text_RivalIntro::
     .string "{RIVAL}: Hahaha! I thought you'd\n"
@@ -126,7 +126,7 @@ SilphCo_7F_Text_RivalVictory::
     .string "いちにんまえ　とは　いえないぜ$"
 
 SilphCo_7F_Text_RivalPostBattle::
-    .string "Well, {PLAYER}!\n"
+    .string "Well, Paul!\n"
     .string "I'm moving on up and ahead!\p"
     .string "By checking my POKéDEX, I'm\n"
     .string "starting to see what's strong and\l"
@@ -136,7 +136,7 @@ SilphCo_7F_Text_RivalPostBattle::
     .string "boot out the ELITE FOUR.\p"
     .string "I'll become the world's most\n"
     .string "powerful TRAINER!\p"
-    .string "{PLAYER}, well, good luck to you!\n"
+    .string "Paul, well, good luck to you!\n"
     .string "Don't sweat it!\l"
     .string "Smell ya!$"
 

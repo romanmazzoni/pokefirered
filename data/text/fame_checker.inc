@@ -616,7 +616,7 @@ gFameCheckerPersonName_ProfOak:: @ 0x81B0188
 
 gFameCheckerPersonQuote_ProfOak:: @ 0x81B0198
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: PROF. OAK\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Why do POKéMON compete and battle\n"
 	.string "so hard for you?\p"
 	.string "They do so because they can see\n"
@@ -629,7 +629,7 @@ gFameCheckerPersonName_Daisy:: @ 0x81B0251
 
 gFameCheckerPersonQuote_Daisy:: @ 0x81B025D
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: DAISY\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}While I was comfortably enjoying\n"
 	.string "my tea breaks, you've grown very\l"
 	.string "skilled and powerful.\p"
@@ -641,7 +641,7 @@ gFameCheckerPersonName_Brock:: @ 0x81B030F
 
 gFameCheckerPersonQuote_Brock:: @ 0x81B031B
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: BROCK\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}In this big world of ours, there\n"
 	.string "must be many tough TRAINERS.\p"
 	.string "Let's both keep training and\n"
@@ -652,7 +652,7 @@ gFameCheckerPersonName_Misty:: @ 0x81B03B3
 
 gFameCheckerPersonQuote_Misty:: @ 0x81B03BF
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: MISTY\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I'm going to keep training here at\n"
 	.string "this GYM.\p"
 	.string "When I get better, I'd love to hit\n"
@@ -663,7 +663,7 @@ gFameCheckerPersonName_LtSurge:: @ 0x81B0446
 
 gFameCheckerPersonQuote_LtSurge:: @ 0x81B0456
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: LT. SURGE\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Hey, kid!\n"
 	.string "You electrified me in our battle!\p"
 	.string "I didn't know that there were\n"
@@ -676,7 +676,7 @@ gFameCheckerPersonName_Erika:: @ 0x81B0504
 
 gFameCheckerPersonQuote_Erika:: @ 0x81B0510
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: ERIKA\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am so glad that there are strong\n"
 	.string "TRAINERS like you.\p"
 	.string "That awareness alone inspires and\n"
@@ -689,7 +689,7 @@ gFameCheckerPersonName_Koga:: @ 0x81B05C2
 
 gFameCheckerPersonQuote_Koga:: @ 0x81B05CD
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: KOGA\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}You and I, we must both set our\n"
 	.string "sights higher and work towards\l"
 	.string "meeting our challenges.\p"
@@ -700,7 +700,7 @@ gFameCheckerPersonName_Sabrina:: @ 0x81B0667
 
 gFameCheckerPersonQuote_Sabrina:: @ 0x81B0675
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: SABRINA\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The love you have towards your\n"
 	.string "POKéMON…\p"
 	.string "It was a power that was never\n"
@@ -711,7 +711,7 @@ gFameCheckerPersonName_Blaine:: @ 0x81B06FB
 
 gFameCheckerPersonQuote_Blaine:: @ 0x81B0708
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: BLAINE\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My fire POKéMON!\n"
 	.string "They'll become even more powerful!\p"
 	.string "And now, a quiz. How many kinds of\n"
@@ -722,7 +722,7 @@ gFameCheckerPersonName_Lorelei:: @ 0x81B079F
 
 gFameCheckerPersonQuote_Lorelei:: @ 0x81B07AD
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: LORELEI\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I needed to thank you for your\n"
 	.string "help.\p"
 	.string "But that has nothing to do with our\n"
@@ -734,7 +734,7 @@ gFameCheckerPersonName_Bruno:: @ 0x81B0845
 
 gFameCheckerPersonQuote_Bruno:: @ 0x81B0851
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: BRUNO\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The super power of your POKéMON\n"
 	.string "and you I've experienced myself.\p"
 	.string "Next time, maybe I should show you\n"
@@ -745,7 +745,7 @@ gFameCheckerPersonName_Agatha:: @ 0x81B08EE
 
 gFameCheckerPersonQuote_Agatha:: @ 0x81B08FB
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: AGATHA\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}When you grow older, don't you\n"
 	.string "dare go soft like that coot OAK!\p"
 	.string "Be like me and keep battling on!$"
@@ -755,7 +755,7 @@ gFameCheckerPersonName_Lance:: @ 0x81B097F
 
 gFameCheckerPersonQuote_Lance:: @ 0x81B098B
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: LANCE\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I'm considering going back to my\n"
 	.string "hometown.\p"
 	.string "I want to retrain my DRAGON-type\n"
@@ -768,7 +768,7 @@ gFameCheckerPersonName_Bill:: @ 0x81B0A45
 
 gFameCheckerPersonQuote_Bill:: @ 0x81B0A50
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: BILL\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Hey, there! CELIO had nothing but\n"
 	.string "praise for you.\p"
 	.string "Hearing that makes me happy.\p"
@@ -780,7 +780,7 @@ gFameCheckerPersonName_MrFuji:: @ 0x81B0AFF
 
 gFameCheckerPersonQuote_MrFuji:: @ 0x81B0B0E
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: MR. FUJI\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Instead of hoping for the happiness\n"
 	.string "of just your POKéMON…\p"
 	.string "…Can I get you to wish for the\n"
@@ -791,7 +791,7 @@ gFameCheckerPersonName_Giovanni:: @ 0x81B0BA6
 
 gFameCheckerPersonQuote_Giovanni:: @ 0x81B0BB5
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: GIOVANNI\n"
-	.string "To: {PLAYER}\p"
+	.string "To: Paul\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}There is nothing that I wish to say\n"
 	.string "to you.\p"
 	.string "I will concentrate solely on\n"

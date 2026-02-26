@@ -25,7 +25,7 @@ Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
     .string "give you a reward.\p"
     .string "PROF. OAK entrusted me with an\n"
     .string "AMULET COIN for you.\p"
-    .string "So, {PLAYER}, let me ask you.\p"
+    .string "So, Paul, let me ask you.\p"
     .string "Have you gathered data on at least\n"
     .string "40 kinds of POKéMON?$"
 
@@ -36,7 +36,7 @@ Route16_NorthEntrance_2F_Text_GreatHereYouGo::
     .string "Here you go!$"
 
 Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
-    .string "{PLAYER} received the AMULET COIN\n"
+    .string "Paul received the AMULET COIN\n"
     .string "from the AIDE.$"
 
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::

@@ -23,7 +23,7 @@ CeruleanCity_Gym_Text_ExplainCascadeBadge::
     .string "You can also have my favorite TM.$"
 
 CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
-    .string "{PLAYER} received TM03\n"
+    .string "Paul received TM03\n"
     .string "from MISTY.$"
 
 CeruleanCity_Gym_Text_BetterMakeRoomForThis::
@@ -88,5 +88,5 @@ CeruleanCity_Gym_Text_GymStatuePlayerWon::
     .string "CERULEAN POKéMON GYM\n"
     .string "LEADER: MISTY\p"
     .string "WINNING TRAINERS:\n"
-    .string "{RIVAL}, {PLAYER}$"
+    .string "{RIVAL}, Paul$"
 

@@ -77,7 +77,7 @@ SaffronCity_Dojo_Text_YouWantHitmonlee::
     .string "HITMONLEE?$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster::
-    .string "{PLAYER} received the {STR_VAR_1}\n"
+    .string "Paul received the {STR_VAR_1}\n"
     .string "from the KARATE MASTER.$"
 
 SaffronCity_Dojo_Text_YouWantHitmonchan::
@@ -85,7 +85,7 @@ SaffronCity_Dojo_Text_YouWantHitmonchan::
     .string "HITMONCHAN?$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2::
-    .string "{PLAYER}は　カラテ　だいおう　から\n"
+    .string "Paulは　カラテ　だいおう　から\n"
     .string "{STR_VAR_1}を　もらった！$"
 
 SaffronCity_Dojo_Text_BetterNotGetGreedy::

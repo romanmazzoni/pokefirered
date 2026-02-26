@@ -18,7 +18,7 @@ Text_MonsHealed::
 	.string "We hope you excel!$"
 
 Text_HadQuiteAnExperienceTakeRest::
-	.string "MOM: {PLAYER}!\n"
+	.string "MOM: Paul!\n"
 	.string "Welcome home.\p"
 	.string "It sounds like you had quite\n"
 	.string "an experience.\p"
@@ -41,13 +41,13 @@ Text_MomExplainHPGetPotions::
 	.string "Take care!$"
 
 Text_WhitedOutLostMoney::
-	.string "{PLAYER} is out of usable\n"
+	.string "Paul is out of usable\n"
 	.string "POKéMON!\p"
-	.string "{PLAYER} panicked and lost ¥{STR_VAR_1}…\p"
+	.string "Paul panicked and lost ¥{STR_VAR_1}…\p"
 	.string "… … … …\p"
-	.string "{PLAYER} whited out!$"
+	.string "Paul whited out!$"
 
 Text_WhitedOut::
-	.string "{PLAYER} is out of usable\n"
+	.string "Paul is out of usable\n"
 	.string "POKéMON!\p"
-	.string "{PLAYER} whited out!$"
+	.string "Paul whited out!$"

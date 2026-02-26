@@ -12,7 +12,7 @@ FuchsiaCity_WardensHouse_Text_HeOhayHeHaHoo::
     .string "He ohay heh ha hoo ee haheh!$"
 
 FuchsiaCity_WardensHouse_Text_GaveGoldTeethToWarden::
-    .string "{PLAYER} gave the GOLD TEETH\n"
+    .string "Paul gave the GOLD TEETH\n"
     .string "to the WARDEN.$"
 
 FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeeth::
@@ -39,7 +39,7 @@ FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
     .string "trouble.$"
 
 FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
-    .string "{PLAYER} received HM04\n"
+    .string "Paul received HM04\n"
     .string "from the WARDEN.$"
 
 FuchsiaCity_WardensHouse_Text_ExplainStrength::

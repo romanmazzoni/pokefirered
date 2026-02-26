@@ -5,7 +5,7 @@ Route16_House_Text_FoundMySecretRetreat::
     .string "I'll make it up to you with this!$"
 
 Route16_House_Text_ReceivedHM02FromGirl::
-    .string "{PLAYER} received HM02\n"
+    .string "Paul received HM02\n"
     .string "from the girl.$"
 
 Route16_House_Text_ExplainHM02::

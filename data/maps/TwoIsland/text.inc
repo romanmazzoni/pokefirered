@@ -29,10 +29,10 @@ TwoIsland_Text_AddedMerchandiseForLostelle::
 
 TwoIsland_Text_HopeYouGiveItYourBest::
     .string "Hi! I'm giving it my best here.\n"
-    .string "I hope you do too, {PLAYER}.$"
+    .string "I hope you do too, Paul.$"
 
 TwoIsland_Text_BringingItemsFromDistantLands::
-    .string "Oh, hello, {PLAYER}!\n"
+    .string "Oh, hello, Paul!\n"
     .string "Welcome!\p"
     .string "I've started bringing in items from\n"
     .string "distant lands.\p"

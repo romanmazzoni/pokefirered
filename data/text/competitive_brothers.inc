@@ -14,7 +14,7 @@ SootopolisCity_Text_GrandMonThanksForShowingMe::
     .string "おれいに　これを　もって　いきなさい$"
 
 SootopolisCity_Text_ReceivedOneItem::
-    .string "{PLAYER}は\n"
+    .string "Paulは\n"
     .string "{STR_VAR_2}を　もらった！$"
 
 SootopolisCity_Text_HuhBagIsCrammedFull::

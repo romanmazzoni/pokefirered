@@ -30,11 +30,11 @@ TwoIsland_House_Text_IllNeedMushroomOrTwo::
     .string "What are you going to give me?$"
 
 TwoIsland_House_Text_HandedOverTwoTinyMushrooms::
-    .string "{PLAYER} handed over two\n"
+    .string "Paul handed over two\n"
     .string "TINYMUSHROOMS in exchange.$"
 
 TwoIsland_House_Text_HandedOverOneBigMushroom::
-    .string "{PLAYER} handed over one\n"
+    .string "Paul handed over one\n"
     .string "BIG MUSHROOM in exchange.$"
 
 TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove::

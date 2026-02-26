@@ -12,7 +12,7 @@ SixIsland_RuinValley_Text_CheckDoorMoreThoroughly::
     .string "Check it more thoroughly?$"
 
 SixIsland_RuinValley_Text_LeftDoorAlone::
-    .string "{PLAYER} left the door alone.$"
+    .string "Paul left the door alone.$"
 
 SixIsland_RuinValley_Text_SeveralDotsOnTheDoor::
     .string "On closer inspection, there are\n"

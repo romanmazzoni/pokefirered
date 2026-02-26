@@ -51,7 +51,7 @@ VermilionCity_PokemonFanClub_Text_ChairmansStory::
     .string "I want you to have this!$"
 
 VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman::
-    .string "{PLAYER} received a BIKE VOUCHER\n"
+    .string "Paul received a BIKE VOUCHER\n"
     .string "from the CHAIRMAN.$"
 
 VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
@@ -69,7 +69,7 @@ VermilionCity_PokemonFanClub_Text_ComeBackToHearStory::
     .string "hear my story!$"
 
 VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain::
-    .string "Hello, {PLAYER}!\p"
+    .string "Hello, Paul!\p"
     .string "Did you come see me about my\n"
     .string "POKéMON again?\p"
     .string "No?\n"

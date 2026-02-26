@@ -10,7 +10,7 @@ PokemonLeague_AgathasRoom_Text_Intro::
     .string "his POKéDEX.\p"
     .string "He's wrong.\n"
     .string "POKéMON are for battling!\p"
-    .string "{PLAYER}! I'll show you how a real\n"
+    .string "Paul! I'll show you how a real\n"
     .string "TRAINER battles!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_AgathasRoom_Text_RematchIntro::
@@ -25,7 +25,7 @@ PokemonLeague_AgathasRoom_Text_RematchIntro::
     .string "his POKéDEX.\p"
     .string "He's wrong.\n"
     .string "POKéMON are for battling!\p"
-    .string "{PLAYER}! I'll show you how a real\n"
+    .string "Paul! I'll show you how a real\n"
     .string "TRAINER battles!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_AgathasRoom_Text_Defeat::

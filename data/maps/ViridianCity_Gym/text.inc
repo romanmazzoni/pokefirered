@@ -39,7 +39,7 @@ ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
     .string "LEAGUE challenge.$"
 
 ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
-    .string "{PLAYER} received TM26\n"
+    .string "Paul received TM26\n"
     .string "from GIOVANNI.$"
 
 ViridianCity_Gym_Text_ExplainTM26::
@@ -167,5 +167,5 @@ ViridianCity_Gym_Text_GymStatuePlayerWon::
     .string "VIRIDIAN POKéMON GYM\n"
     .string "LEADER: GIOVANNI\p"
     .string "WINNING TRAINERS:\n"
-    .string "{RIVAL}, {PLAYER}$"
+    .string "{RIVAL}, Paul$"
 

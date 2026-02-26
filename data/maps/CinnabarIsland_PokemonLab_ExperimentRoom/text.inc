@@ -45,7 +45,7 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_FossilMonBackToLife::
     .string "It was {STR_VAR_1} like I think!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ReceivedMonFromDoctor::
-    .string "{PLAYER} received the {STR_VAR_1}\n"
+    .string "Paul received the {STR_VAR_1}\n"
     .string "from the doctor.$"
 
 @ Unused
@@ -64,7 +64,7 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HandedFossilToWeirdDoctor::
     .string "So!\n"
     .string "You hurry and give me that!\p"
-    .string "{FONT_NORMAL}{PLAYER} handed over the\n"
+    .string "{FONT_NORMAL}Paul handed over the\n"
     .string "{STR_VAR_2} to the weird doctor.$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalk::

@@ -11,7 +11,7 @@ FuchsiaCity_House2_Text_LikeYourStyleTakeThis::
     .string "Take this and fish, young friend!$"
 
 FuchsiaCity_House2_Text_ReceivedGoodRod::
-    .string "{PLAYER} received a GOOD ROD from\n"
+    .string "Paul received a GOOD ROD from\n"
     .string "the FISHING GURU's brother.$"
 
 FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
@@ -27,7 +27,7 @@ FuchsiaCity_House2_Text_OhThatsDisappointing::
     .string "That's so disappointing…$"
 
 FuchsiaCity_House2_Text_HowAreTheFishBiting::
-    .string "Hello there, {PLAYER}!\p"
+    .string "Hello there, Paul!\p"
     .string "How are the fish biting?$"
 
 FuchsiaCity_House2_Text_YouHaveNoRoomForGift::

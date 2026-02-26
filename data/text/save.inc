@@ -10,7 +10,7 @@ gText_SavingDontTurnOffThePower::
 	.string "DON'T TURN OFF THE POWER.$"
 
 gText_PlayerSavedTheGame::
-	.string "{PLAYER} saved the game.$"
+	.string "Paul saved the game.$"
 
 gText_SaveFailed2::
 	.string "セーブに　しっぱい　しました‥$"

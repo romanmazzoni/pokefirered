@@ -182,9 +182,9 @@
 #define MAX_STAT_STAGE    12
 
 // Shiny odds
-#define SHINY_ODDS 8 // Actual probability is SHINY_ODDS/65536
+#define SHINY_ODDS 24 // Actual probability is SHINY_ODDS/65536
 
-#define MAX_LEVEL 100
+#define MAX_LEVEL 104
 
 #define OT_ID_PLAYER_ID       0
 #define OT_ID_PRESET          1

@@ -23,7 +23,7 @@ Text_MonSentToBoxBillsBoxFull::
     .string "BOX “{STR_VAR_1}.”$"
 
 Text_PlayerObtainedTheMon::
-    .string "{PLAYER} obtained\n"
+    .string "Paul obtained\n"
     .string "the {STR_VAR_1}!$"
 
 @ Unused. Translated below

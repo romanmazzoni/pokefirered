@@ -16,7 +16,7 @@ OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
 OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed::
     .string "The water is perfectly warm.\n"
     .string "It feels exquisite…\p"
-    .string "{PLAYER} and the POKéMON were\n"
+    .string "Paul and the POKéMON were\n"
     .string "fully refreshed!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::
