@@ -1,19 +1,12 @@
 ViridianCity_Gym_Text_GiovanniIntro::
     .string "Fwahahaha!\n"
-    .string "Welcome to my hideout!\p"
-    .string "It shall be so until I can restore\n"
-    .string "TEAM ROCKET to its former glory.\p"
-    .string "But, you have found me again.\n"
-    .string "So be it.\l"
-    .string "This time, I'm not holding back!\p"
-    .string "Once more, you shall face\n"
-    .string "GIOVANNI, the greatest TRAINER!{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
+    .string "I love killing kids!{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
 
 ViridianCity_Gym_Text_GiovanniDefeat::
-    .string "Ha!\n"
-    .string "That was a truly intense fight.\l"
-    .string "You have won!\p"
-    .string "As proof, here is the EARTHBADGE!\n"
+    .string "Oh!\n"
+    .string "So we cheatin.\l"
+    .string "Sure buddy!\p"
+    .string "Autoreflect and shit!\n"
     .string "{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}$"
 
 ViridianCity_Gym_Text_GiovanniPostBattle::
@@ -22,10 +15,7 @@ ViridianCity_Gym_Text_GiovanniPostBattle::
     .string "I have betrayed their trust.\p"
     .string "As of today, TEAM ROCKET is\n"
     .string "finished forever!\p"
-    .string "As for myself, I shall dedicate\n"
-    .string "my life to training again.\p"
-    .string "Let us meet again someday!\n"
-    .string "Farewell!$"
+    .string "I'm done killing kids.$"
 
 ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
     .string "The EARTHBADGE makes POKéMON of\n"
@@ -79,7 +69,7 @@ ViridianCity_Gym_Text_JasonIntro::
     .string "music together!$"
 
 ViridianCity_Gym_Text_JasonDefeat::
-    .string "You are in perfect harmony!$"
+    .string "You are in perfect harmon!$"
 
 ViridianCity_Gym_Text_JasonPostBattle::
     .string "Do you know the identity of our\n"
@@ -97,10 +87,10 @@ ViridianCity_Gym_Text_KiyoPostBattle::
     .string "karate as I…$"
 
 ViridianCity_Gym_Text_WarrenIntro::
-    .string "The truly talented win with style.$"
+    .string "The truly talen win with style.$"
 
 ViridianCity_Gym_Text_WarrenDefeat::
-    .string "I lost my grip!$"
+    .string "I lost my grisp!$"
 
 ViridianCity_Gym_Text_WarrenPostBattle::
     .string "The LEADER will scold me for\n"
@@ -108,14 +98,14 @@ ViridianCity_Gym_Text_WarrenPostBattle::
 
 ViridianCity_Gym_Text_TakashiIntro::
     .string "I'm the KARATE KING!\n"
-    .string "Your fate rests with me!$"
+    .string "Your face rests with me!$"
 
 ViridianCity_Gym_Text_TakashiDefeat::
-    .string "Ayah!$"
+    .string "Dick!$"
 
 ViridianCity_Gym_Text_TakashiPostBattle::
     .string "The POKéMON LEAGUE?\n"
-    .string "You? Don't get cocky!$"
+    .string "You? Don't get cock!$"
 
 ViridianCity_Gym_Text_ColeIntro::
     .string "Your POKéMON will cower at the\n"

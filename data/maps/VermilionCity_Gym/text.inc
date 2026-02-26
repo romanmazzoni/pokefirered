@@ -2,25 +2,24 @@ VermilionCity_Gym_Text_LtSurgeIntro::
     .string "Hey, kid! What do you think you're\n"
     .string "doing here?\p"
     .string "You won't live long in combat!\n"
-    .string "Not with your puny power!\p"
-    .string "I tell you, kid, electric POKéMON\n"
-    .string "saved me during the war!\p"
-    .string "They zapped my enemies into\n"
-    .string "paralysis!\p"
-    .string "The same as I'll do to you!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "I'll break your bones!\p"
+    .string "Grind em up!\n"
+    .string "Eat your organs!\p"
+    .string "Burn your brain!\n"
+    .string "Paralysis!\p"
+    .string "YOURE GONNA DIEEEEEE!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 VermilionCity_Gym_Text_LtSurgePostBattle::
-    .string "A little word of advice, kid!\p"
-    .string "Electricity is sure powerful!\p"
-    .string "But, it's useless against GROUND-\n"
-    .string "type POKéMON!$"
+    .string "Dude, pokemon is not this\n"
+    .string "serious. Like, go outside ever.$"
+
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
     .string "The THUNDERBADGE cranks up your\n"
     .string "POKéMON's SPEED!\p"
-    .string "It also lets your POKéMON FLY\n"
-    .string "lightning-quick anytime, kid!\p"
-    .string "You're special, kid!\n"
+    .string "It also lets your POKéMON FLY!\n"
+    .string "WHEEEEEEEE!\p"
+    .string "You're special Ed, kid!\n"
     .string "Take this!$"
 
 VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
@@ -42,11 +41,11 @@ VermilionCity_Gym_Text_LtSurgeDefeat::
 VermilionCity_Gym_Text_TuckerIntro::
     .string "When I was in the Army, LT. SURGE\n"
     .string "was my strict CO.\p"
-    .string "He was a hard taskmaster.$"
+    .string "He killed my best friend...$"
 
 VermilionCity_Gym_Text_TuckerDefeat::
-    .string "Stop!\n"
-    .string "You're very good!$"
+    .string "Oh!\n"
+    .string "You killed my other friends...$"
 
 VermilionCity_Gym_Text_TuckerPostBattle::
     .string "It's not easy opening that door.\p"
@@ -56,10 +55,10 @@ VermilionCity_Gym_Text_TuckerPostBattle::
 VermilionCity_Gym_Text_BailyIntro::
     .string "I'm a lightweight, but I'm good\n"
     .string "with electricity!\p"
-    .string "That's why I joined this GYM.$"
+    .string "Killua shit.$"
 
 VermilionCity_Gym_Text_BailyDefeat::
-    .string "Fried!$"
+    .string "Friend!$"
 
 VermilionCity_Gym_Text_BailyPostBattle::
     .string "Okay, I'll talk!\p"
@@ -72,7 +71,7 @@ VermilionCity_Gym_Text_DwayneIntro::
 
 VermilionCity_Gym_Text_DwayneDefeat::
     .string "Wow!\n"
-    .string "Surprised me!$"
+    .string "Thats some BS!$"
 
 VermilionCity_Gym_Text_DwaynePostBattle::
     .string "LT. SURGE installed the traps in\n"

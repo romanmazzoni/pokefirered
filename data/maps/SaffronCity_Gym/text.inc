@@ -1,24 +1,66 @@
 SaffronCity_Gym_Text_SabrinaIntro::
-    .string "I had a vision of your arrival.\p"
-    .string "I have had psychic powers since\n"
-    .string "I was a child.\p"
-    .string "It started when a spoon I\n"
-    .string "carelessly tossed, bent.\p"
-    .string "I dislike battling, but if you wish,\n"
-    .string "I will show you my powers!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "Half a league, half a league,\n"
+    .string "Half a league onward,\p"
+    .string "All in the valley of Death\n"
+    .string "Rode the six hundred.\p"
+    .string "All in the valley of Death\n"
+    .string "Rode the six hundred.\p"
+    .string "Forward, the Light Brigade!\n"
+    .string "Was there a man dismayed?\p"
+    .string "Not though the soldier knew\n"
+    .string "Charge for the guns! he said.\p"
+    .string "Forward, the Light Brigade!\n"
+    .string "Someone had blundered.\p"
+    .string "Theirs not to make reply,\n"
+    .string "Theirs not to reason why,\p"
+    .string "Theirs but to do and die.\n"
+    .string "Into the valley of Death\p"
+    .string "Rode the six hundred.\p"
+    .string "Cannon to right of them,\n"
+    .string "Cannon to left of them,\p"
+    .string "Cannon in front of them\n"
+    .string "Volleyed and thundered;\p"
+    .string "Stormed at with shot and shell,\n"
+    .string "Boldly they rode and well,\p"
+    .string "Into the jaws of Death,\n"
+    .string "Into the mouth of hell\p"
+    .string "Rode the six hundred.\p"
+    .string "Flashed all their sabres bare,\n"
+    .string "Flashed as they turned in air\p"
+    .string "Sabring the gunners there,\n"
+    .string "Charging an army, while\p"
+    .string "All the world wondered.\n"
+    .string "Plunged in the battery-smoke\p"
+    .string "Right through the line they broke;\n"
+    .string "Cossack and Russian\p"
+    .string "Reeled from the sabre stroke\n"
+    .string "Shattered and sundered.\p"
+    .string "Then they rode back, but not\n"
+    .string "Not the six hundred.\p"
+    .string "Cannon to right of them,\n"
+    .string "Cannon to left of them,\p"
+    .string "Cannon behind them\n"
+    .string "Volleyed and thundered;\p"
+    .string "Stormed at with shot and shell,\n"
+    .string "While horse and hero fell.\p"
+    .string "They that had fought so well\n"
+    .string "Came through the jaws of Death,\p"
+    .string "Back from the mouth of hell,\n"
+    .string "All that was left of them,\p"
+    .string "Left of six hundred.\p"
+    .string "When can their glory fade?\n"
+    .string "O the wild charge they made!\p"
+    .string "All the world wondered.\n"
+    .string "Honour the charge they made!\p"
+    .string "Honour the Light Brigade,\n"
+    .string "Noble six hundred!\p"
+    .string "...{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 SaffronCity_Gym_Text_SabrinaDefeat::
-    .string "This loss shocks me!\n"
-    .string "But, a loss is a loss.\p"
-    .string "I admit, I didn't work hard enough\n"
-    .string "to win.\p"
-    .string "Your victory has earned you the\n"
-    .string "MARSHBADGE.$"
+    .string "Alfred, Lord Tennyson.$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle::
-    .string "Psychic power isn't something that\n"
-    .string "only a few people have.\p"
-    .string "Everyone has psychic power.\n"
+    .string "Good poem right??\n"
     .string "People just don't realize it.$"
 
 SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
@@ -36,8 +78,8 @@ SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
 
 SaffronCity_Gym_Text_ExplainTM04::
     .string "TM04 is CALM MIND.\p"
-    .string "It makes the POKéMON concentrate\n"
-    .string "to raise both SP. ATK and SP. DEF.$"
+    .string "Calm down.\n"
+    .string "Recite a poem.$"
 
 SaffronCity_Gym_Text_BagFullOfOtherItems::
     .string "Your BAG is full of other items.$"
@@ -56,10 +98,10 @@ SaffronCity_Gym_Text_AmandaPostBattle::
     .string "and will yourself to victory.$"
 
 SaffronCity_Gym_Text_JohanIntro::
-    .string "Does our unseen power scare you?$"
+    .string "Does your unseen power scare you?$"
 
 SaffronCity_Gym_Text_JohanDefeat::
-    .string "I never foresaw this!$"
+    .string "Give in!$"
 
 SaffronCity_Gym_Text_JohanPostBattle::
     .string "PSYCHIC POKéMON fear only ghosts\n"
@@ -91,11 +133,11 @@ SaffronCity_Gym_Text_TyronPostBattle::
     .string "MASTER next door.$"
 
 SaffronCity_Gym_Text_TashaIntro::
-    .string "You and I, our POKéMON shall\n"
+    .string "You and me, our POKéMON shall\n"
     .string "battle!$"
 
 SaffronCity_Gym_Text_TashaDefeat::
-    .string "I lost after all!$"
+    .string "Grammers!$"
 
 SaffronCity_Gym_Text_TashaPostBattle::
     .string "I knew that this was going to take\n"

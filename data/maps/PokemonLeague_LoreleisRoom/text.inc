@@ -4,10 +4,10 @@ PokemonLeague_LoreleisRoom_Text_Intro::
     .string "No one can best me when it comes\n"
     .string "to icy POKéMON.\p"
     .string "Freezing moves are powerful.\p"
-    .string "Your POKéMON will be at my mercy\n"
-    .string "when they are frozen solid.\p"
+    .string "But defensively this type is ass.\n"
+    .string "Like, so ass.\p"
     .string "Hahaha!\n"
-    .string "Are you ready?{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "If you lose to me you're trash.{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_LoreleisRoom_Text_RematchIntro::
     .string "Welcome to the POKéMON LEAGUE.\p"
@@ -23,11 +23,10 @@ PokemonLeague_LoreleisRoom_Text_RematchIntro::
     .string "Are you ready?{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_LoreleisRoom_Text_Defeat::
-    .string "…Things shouldn't be this way!$"
+    .string "…Yeah. You beat an ice type\n"
+    .string "trainer big deal asshat.$"
 
 PokemonLeague_LoreleisRoom_Text_PostBattle::
-    .string "You're better than I thought.\n"
-    .string "Go on ahead.\p"
-    .string "You only got a taste of the\n"
-    .string "POKéMON LEAGUE's power.$"
+    .string "Why are you still here.\n"
+    .string "Leave dude.$"
 

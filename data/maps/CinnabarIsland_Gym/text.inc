@@ -4,19 +4,19 @@ CinnabarIsland_Gym_Text_BlaineIntro::
     .string "of CINNABAR GYM!\p"
     .string "My fiery POKéMON are all rough\n"
     .string "and ready with intense heat!\p"
-    .string "They incinerate all challengers!\p"
+    .string "They Cinderace all challengers!\p"
     .string "Hah!\n"
     .string "You better have BURN HEAL!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 CinnabarIsland_Gym_Text_BlaineDefeat::
-    .string "I have burned down to nothing!\n"
-    .string "Not even ashes remain!\p"
-    .string "You have earned the VOLCANOBADGE.$"
+    .string "Cin cin!\n"
+    .string "Cinderace!\p"
+    .string "Guh.$"
 
 CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
-    .string "FIRE BLAST is the ultimate fire\n"
-    .string "technique.\p"
-    .string "Don't waste it on WATER POKéMON.$"
+    .string "Guh Guh Guh Guh\n"
+    .string "Guh.\p"
+    .string "Guh Guh Guh Guh Guh Guh.$"
 
 CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
     .string "Hah!\p"
@@ -25,13 +25,13 @@ CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
     .string "Here, you can have this, too!$"
 
 CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
-    .string "Paul received TM38\n"
+    .string "{PLAYER} received TM38\n"
     .string "from BLAINE.$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
     .string "TM38 contains FIRE BLAST.\n"
     .string "Teach it to FIRE-type POKéMON.\p"
-    .string "VULPIX or CHARMELEON would be\n"
+    .string "Tenacruel or Chimecho would be\n"
     .string "ideal for that move.$"
 
 CinnabarIsland_Gym_Text_MakeSpaceForThis::
@@ -79,7 +79,7 @@ CinnabarIsland_Gym_Text_RamonIntro::
     .string "I just do.$"
 
 CinnabarIsland_Gym_Text_RamonDefeat::
-    .string "Too hot to handle!$"
+    .string "Too hot to Cinderace!$"
 
 CinnabarIsland_Gym_Text_RamonPostBattle::
     .string "I wish there were a thief POKéMON.\n"
@@ -109,15 +109,15 @@ CinnabarIsland_Gym_Text_DustyDefeat::
     .string "Too hot!$"
 
 CinnabarIsland_Gym_Text_DustyPostBattle::
-    .string "PONYTA, NINETALES…\n"
-    .string "Those are popular FIRE POKéMON.$"
+    .string "Cinderace…\n"
+    .string "Thats a popular FIRE POKéMON.$"
 
 CinnabarIsland_Gym_Text_ZacIntro::
-    .string "Fire is weak against H2O.$"
+    .string "Fire is weak against WaWa.$"
 
 CinnabarIsland_Gym_Text_ZacDefeat::
     .string "Oh!\n"
-    .string "Snuffed out!$"
+    .string "Watered down!$"
 
 CinnabarIsland_Gym_Text_ZacPostBattle::
     .string "Water beats fire, of course.\p"

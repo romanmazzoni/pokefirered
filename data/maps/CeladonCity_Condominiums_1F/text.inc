@@ -19,17 +19,17 @@ CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
     .string "Oh, hello, dearie.\n"
     .string "Did you enjoy my TEA?\p"
     .string "By the way, dear. Are you, by any\n"
-    .string "chance, from PALLET TOWN?\p"
-    .string "A girl from PALLET TOWN, DAISY,\n"
+    .string "chance, from PAULLET TOWN?\p"
+    .string "A girl from PAULLET TOWN, DAISY,\n"
     .string "she enjoys TEA every day.\p"
     .string "She visits the CELADON DEPT. STORE\n"
     .string "to buy some TEA.$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::
-    .string "CLEFAIRY: Pi pippippi!$"
+    .string "CLEFAIRY: KERCHOW!$"
 
 CeladonCity_Condominiums_1F_Text_Nidoran::
-    .string "NIDORAN♀: Kya kyaoo!$"
+    .string "NIDORAN♀: KACHOW!$"
 
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
     .string "CELADON MANSION\n"

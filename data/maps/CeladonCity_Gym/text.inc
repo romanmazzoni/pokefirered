@@ -3,23 +3,23 @@ CeladonCity_Gym_Text_ErikaIntro::
     .string "Lovely weather, isn't it?\l"
     .string "It's so pleasant…\p"
     .string "…Oh, dear…\n"
-    .string "I must have dozed off. Welcome.\p"
-    .string "My name is ERIKA.\n"
-    .string "I am the LEADER of CELADON GYM.\p"
-    .string "I am a student of the art of\n"
-    .string "flower arranging.\p"
-    .string "My POKéMON are solely of the\n"
-    .string "GRASS type.\p"
+    .string "…Oh, Gosh…\p"
+    .string "…Oh, Golly…\n"
+    .string "…Oh, Me…\p"
+    .string "…Oh, My…\n"
+    .string "…Howdy dooty…\p"
+    .string "…Rootin tootin…\n"
+    .string "…Grass type…\p"
     .string "…Oh, I'm sorry, I had no idea that\n"
     .string "you wished to challenge me.\p"
-    .string "Very well, but I shall not lose.{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "You better Shou up then.{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
 CeladonCity_Gym_Text_ErikaDefeat::
     .string "Oh!\n"
     .string "I concede defeat.\l"
-    .string "You are remarkably strong.\p"
-    .string "I must confer on you the\n"
-    .string "RAINBOWBADGE.$"
+    .string "You play so boring.\p"
+    .string "I simply don't care\n"
+    .string "enough.$"
 
 CeladonCity_Gym_Text_ErikaPostBattle::
     .string "You are cataloging POKéMON?\n"
@@ -40,10 +40,9 @@ CeladonCity_Gym_Text_ReceivedTM19FromErika::
 
 CeladonCity_Gym_Text_ExplainTM19::
     .string "TM19 contains GIGA DRAIN.\p"
-    .string "Half the damage it inflicts is\n"
-    .string "drained to heal your POKéMON.\p"
-    .string "Wouldn't you agree that it's a\n"
-    .string "wonderful move?$"
+    .string "Call me if you ever need\n"
+    .string "a GIGA DRAIN.\p"
+    .string "WINK$"
 
 CeladonCity_Gym_Text_ShouldMakeRoomForThis::
     .string "You should make room for this.$"
@@ -65,7 +64,7 @@ CeladonCity_Gym_Text_BridgetIntro::
     .string "I was getting bored.$"
 
 CeladonCity_Gym_Text_BridgetDefeat::
-    .string "My makeup!$"
+    .string "Fuck off dude.$"
 
 CeladonCity_Gym_Text_BridgetPostBattle::
     .string "GRASS-type POKéMON are tough\n"
@@ -78,7 +77,7 @@ CeladonCity_Gym_Text_TinaIntro::
     .string "earlier?$"
 
 CeladonCity_Gym_Text_TinaDefeat::
-    .string "You're an eye-opener!$"
+    .string "Locked in.$"
 
 CeladonCity_Gym_Text_TinaPostBattle::
     .string "Oh, you were looking at ERIKA…\n"
@@ -88,7 +87,7 @@ CeladonCity_Gym_Text_TamiaIntro::
     .string "Look, look!\n"
     .string "See my POKéMON!\p"
     .string "I like the GRASS type.\n"
-    .string "I like how they're easy to raise.$"
+    .string "I like Chikorita.$"
 
 CeladonCity_Gym_Text_TamiaDefeat::
     .string "No!$"
@@ -101,12 +100,11 @@ CeladonCity_Gym_Text_TamiaPostBattle::
 
 CeladonCity_Gym_Text_LisaIntro::
     .string "Oh, hey!\p"
-    .string "We don't like BUG- or FIRE-type\n"
+    .string "We don't like Fairy- or FIRE-type\n"
     .string "POKéMON in here!$"
 
 CeladonCity_Gym_Text_LisaDefeat::
-    .string "Oh!\n"
-    .string "You!$"
+    .string "Lego Yoda death noise$"
 
 CeladonCity_Gym_Text_LisaPostBattle::
     .string "Our LEADER ERIKA might be quiet,\n"
@@ -114,7 +112,7 @@ CeladonCity_Gym_Text_LisaPostBattle::
 
 CeladonCity_Gym_Text_LoriIntro::
     .string "Pleased to meet you.\n"
-    .string "My hobby is POKéMON training.$"
+    .string "My hobby is PAULKéMON training.$"
 
 CeladonCity_Gym_Text_LoriDefeat::
     .string "Oh!\n"

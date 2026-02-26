@@ -1,31 +1,31 @@
 FuchsiaCity_Gym_Text_KogaIntro::
     .string "KOGA: Fwahahaha!\p"
-    .string "A mere child like you dares to\n"
-    .string "challenge me?\p"
-    .string "The very idea makes me shiver\n"
-    .string "with mirth!\p"
-    .string "Very well, I shall show you true\n"
-    .string "terror as a ninja master.\p"
-    .string "Poison brings steady doom.\n"
-    .string "Sleep renders foes helpless.\p"
-    .string "Despair to the creeping horror of\n"
-    .string "POISON-type POKéMON!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "I am Koga,\n"
+    .string "I live in the shadows!\p"
+    .string "You didn't see me earlier\n"
+    .string "because me so sneaky!\p"
+    .string "Hehehe\n"
+    .string "HooHooHoo.\p"
+    .string "So so sneaky.\n"
+    .string "Shoom Shoom!\p"
+    .string "Hoorah\n"
+    .string "Fakeout!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 FuchsiaCity_Gym_Text_KogaDefeat::
     .string "Humph!\n"
     .string "You have proven your worth!\p"
     .string "Here!\n"
-    .string "Take the SOULBADGE!$"
+    .string "Take the SHOUBADGE!$"
 
 FuchsiaCity_Gym_Text_KogaPostBattle::
     .string "When afflicted by TOXIC, a POKéMON\n"
     .string "suffers more and more.\p"
     .string "It suffers worsening damage as the\n"
     .string "battle wears on!\p"
-    .string "It will surely terrorize foes!$"
+    .string "It's lowkey evil!$"
 
 FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
-    .string "Now that you have the SOULBADGE,\n"
+    .string "Now that you have the SHOUBADGE,\n"
     .string "the DEFENSE of your POKéMON rises.\p"
     .string "It also lets you SURF outside of\n"
     .string "battle.\p"
@@ -37,10 +37,10 @@ FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
     .string "from KOGA.$"
 
 FuchsiaCity_Gym_Text_KogaExplainTM06::
-    .string "Sealed within that TM06 lies\n"
+    .string "Highkey finna finna\n"
     .string "TOXIC!\p"
     .string "It is a secret technique dating\n"
-    .string "back some four hundred years.$"
+    .string "back to gen 1.$"
 
 FuchsiaCity_Gym_Text_MakeSpaceForThis::
     .string "Make space for this, child!$"
@@ -48,19 +48,20 @@ FuchsiaCity_Gym_Text_MakeSpaceForThis::
 FuchsiaCity_Gym_Text_KaydenIntro::
     .string "Strength isn't the key for POKéMON.\n"
     .string "Do you understand this?\p"
-    .string "POKéMON is about strategy!\p"
-    .string "I'll show you how strategy can\n"
-    .string "beat brute strength.$"
+    .string "POKéMON is about looking up\n"
+    .string "every battle ahead of time.\p"
+    .string "Leave nothing to chance, nuzlockers\n"
+    .string "will tell you its not cheating.$"
 
 FuchsiaCity_Gym_Text_KaydenDefeat::
-    .string "What?\n"
-    .string "Extraordinary!$"
+    .string "Yeah?\n"
+    .string "It is cheating.$"
 
 FuchsiaCity_Gym_Text_KaydenPostBattle::
     .string "So, you mix brawn with brains?\n"
-    .string "Good strategy!\p"
-    .string "That's remarkable for a child\n"
-    .string "TRAINER.$"
+    .string "Real shouleil?\p"
+    .string "Wow, thats the ADV2 winner\n"
+    .string "mentality.$"
 
 FuchsiaCity_Gym_Text_KirkIntro::
     .string "I was a magician once upon a time.\p"
@@ -80,7 +81,8 @@ FuchsiaCity_Gym_Text_NateIntro::
     .string "techniques!$"
 
 FuchsiaCity_Gym_Text_NateDefeat::
-    .string "You had me fooled!$"
+    .string "I tricked you into beating\n"
+    .string "me! Dumbass!$"
 
 FuchsiaCity_Gym_Text_NatePostBattle::
     .string "I like poison and sleep techniques,\n"
@@ -108,15 +110,13 @@ FuchsiaCity_Gym_Text_EdgarIntro::
     .string "animals!$"
 
 FuchsiaCity_Gym_Text_EdgarDefeat::
-    .string "Awoo!$"
+    .string "Arrwoo!$"
 
 FuchsiaCity_Gym_Text_EdgarPostBattle::
-    .string "I still have much to learn.$"
+    .string "Meow meow meow :3$"
 
 FuchsiaCity_Gym_Text_ShawnIntro::
-    .string "Master KOGA comes from a long line\n"
-    .string "of ninjas.\p"
-    .string "What did you descend from?$"
+    .string "Nuzzles you$"
 
 FuchsiaCity_Gym_Text_ShawnDefeat::
     .string "You're more skilled than I'd\n"

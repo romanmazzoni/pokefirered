@@ -2,25 +2,25 @@ CeruleanCity_Gym_Text_MistyIntro::
     .string "Hi, you're a new face!\p"
     .string "Only those TRAINERS who have a\n"
     .string "policy about POKéMON can turn pro.\p"
-    .string "What is your approach when you\n"
-    .string "catch and train POKéMON?\p"
-    .string "My policy is an all-out offensive\n"
-    .string "with WATER-type POKéMON!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "If you want to go pro in a game\n"
+    .string "just play pyro in tf2!\p"
+    .string "Pyro is the easiest class\n"
+    .string "by far!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
     .string "TM03 teaches WATER PULSE.\p"
-    .string "Use it on an aquatic POKéMON!$"
+    .string "Use it on an fish-type POKéMON!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
     .string "The CASCADEBADGE makes all\n"
     .string "POKéMON up to Lv. 30 obey.\p"
-    .string "That includes even outsiders you\n"
-    .string "got in trades.\p"
-    .string "There's more. You can now use CUT\n"
-    .string "anytime, even out of battle.\p"
+    .string "Imagine if Pokemon always\n"
+    .string "obeyed you...\p"
+    .string "I'd catch a Cinderace and\n"
+    .string "then go crazy town on him.\p"
     .string "You can CUT down small trees to\n"
     .string "open new pathways.\p"
-    .string "You can also have my favorite TM.$"
+    .string "You, have my favorite TM.$"
 
 CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
     .string "Paul received TM03\n"
@@ -38,11 +38,11 @@ CeruleanCity_Gym_Text_MistyDefeat::
 
 CeruleanCity_Gym_Text_DianaIntro::
     .string "What? You?\n"
-    .string "I'm more than good enough for you!\p"
+    .string "I'm more than gooder than you!\p"
     .string "MISTY won't have to be bothered.$"
 
 CeruleanCity_Gym_Text_DianaDefeat::
-    .string "You overwhelmed me!$"
+    .string "Bitchass coward!$"
 
 CeruleanCity_Gym_Text_DianaPostBattle::
     .string "You have to face other TRAINERS\n"
@@ -66,7 +66,7 @@ CeruleanCity_Gym_Text_GymGuyAdvice::
     .string "Champ in the making!\p"
     .string "Let me give you some advice!\p"
     .string "The LEADER, MISTY, is a pro who\n"
-    .string "uses WATER-type POKéMON.\p"
+    .string "uses FISH-type POKéMON.\p"
     .string "You can drain all their water with\n"
     .string "GRASS-type POKéMON.\p"
     .string "Or, you might use ELECTRIC-type\n"
